@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Deven",
+    "balance": 5499920,
+    "canWithdraw": true
+  },
+  {
+    "id": 2,
+    "name": "labbu",
+    "balance": 49900,
+    "canWithdraw": true
+  }
+]
